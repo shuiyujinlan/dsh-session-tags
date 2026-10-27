@@ -1,0 +1,4 @@
+# dsh-session-tags bundle layer
+- insert:
+    - id: session-tags
+      name: dsh-session-tags
